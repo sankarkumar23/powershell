@@ -212,6 +212,9 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html"
+        },
+        ".json": {
+          "relative_path": "articles/toc.json"
         }
       },
       "version": ""
@@ -6795,6 +6798,9 @@
       "output": {
         ".html": {
           "relative_path": "cmdlets/toc.html"
+        },
+        ".json": {
+          "relative_path": "cmdlets/toc.json"
         }
       },
       "version": ""
@@ -7845,6 +7851,9 @@
       "output": {
         ".html": {
           "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
         }
       },
       "version": ""
