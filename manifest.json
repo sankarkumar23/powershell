@@ -31,9 +31,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/azureautomationrunbook.md",
       "output": {
@@ -194,9 +191,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/telemetry.md",
       "output": {
@@ -210,19 +204,16 @@
       "type": "Toc",
       "source_relative_path": "articles/toc.yml",
       "output": {
-        ".html": {
-          "relative_path": "articles/toc.html"
-        },
         ".json": {
           "relative_path": "articles/toc.json"
+        },
+        ".html": {
+          "relative_path": "articles/toc.html"
         }
       },
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/updatenotifications.md",
       "output": {
@@ -1343,9 +1334,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "cmdlets/Disconnect-PnPOnline.md",
       "output": {
@@ -1616,9 +1604,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "cmdlets/Get-PnPAvailableSensitivityLabel.md",
       "output": {
@@ -1629,9 +1614,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "cmdlets/Get-PnPAvailableSiteClassification.md",
       "output": {
@@ -1752,9 +1734,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "cmdlets/Get-PnPAzureADServicePrincipalAvailableAppRole.md",
       "output": {
@@ -3535,9 +3514,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "cmdlets/Grant-PnPAzureADAppSitePermission.md",
       "output": {
@@ -5508,9 +5484,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "cmdlets/Set-PnPAzureADAppSitePermission.md",
       "output": {
@@ -5801,9 +5774,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "cmdlets/Set-PnPList.md",
       "output": {
@@ -5854,9 +5824,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "cmdlets/Set-PnPListPermission.md",
       "output": {
@@ -6117,9 +6084,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "cmdlets/Set-PnPSiteClassification.md",
       "output": {
@@ -6190,9 +6154,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "cmdlets/Set-PnPSiteSensitivityLabel.md",
       "output": {
@@ -6796,11 +6757,11 @@
       "type": "Toc",
       "source_relative_path": "cmdlets/toc.yml",
       "output": {
-        ".html": {
-          "relative_path": "cmdlets/toc.html"
-        },
         ".json": {
           "relative_path": "cmdlets/toc.json"
+        },
+        ".html": {
+          "relative_path": "cmdlets/toc.html"
         }
       },
       "version": ""
@@ -7849,11 +7810,11 @@
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
-        ".html": {
-          "relative_path": "toc.html"
-        },
         ".json": {
           "relative_path": "toc.json"
+        },
+        ".html": {
+          "relative_path": "toc.html"
         }
       },
       "version": ""
